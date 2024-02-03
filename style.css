@@ -1,0 +1,21 @@
+h1{
+    color: blue;
+    font-size: 80px;
+    font-family: cursive;
+    text-align: left;
+}
+h2{
+    color: green;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+h3{
+    color: aqua;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+}
+table,th,td{
+    border: 3px solid black;
+}
